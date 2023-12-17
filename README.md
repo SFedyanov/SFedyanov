@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SFedyanov { Sergey Fedyanov }
-- 👀 I’m interested in Linux, Bash, Docker, Ansible
+- 👀 I’m interested in DevOps, Linux, Bash, Docker, Helm, Ansible
 - 🌱 I’m currently learning Kubernetis
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me: 
