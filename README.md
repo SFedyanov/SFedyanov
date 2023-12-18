@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SFedyanov { Sergey Fedyanov }
-- 👀 I’m interested in DevOps, Linux, Bash, Docker, Helm, Ansible
-- 🌱 I’m currently learning Kubernetis
+- 👀 I’m interested in Kubernetis, DevOps, Linux, Bash, Docker, Helm, Ansible
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me: 
   - sfedyanov@gmail.com
